@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5928d07a822e780c2b18",
+    "revision": "73420fcd041b60586d64",
     "url": "/react_app/static/css/main.b8109a30.chunk.css"
   },
   {
-    "revision": "5928d07a822e780c2b18",
-    "url": "/react_app/static/js/main.52ddb3da.chunk.js"
+    "revision": "73420fcd041b60586d64",
+    "url": "/react_app/static/js/main.bddf9b7b.chunk.js"
   },
   {
     "revision": "10c67c8a2e7bca023720",
@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/react_app/static/media/weathericons-regular-webfont.8cac70eb.woff"
   },
   {
-    "revision": "4b658767da6bd92ce2addb3ce512784d",
-    "url": "/react_app/static/media/weathericons-regular-webfont.4b658767.eot"
-  },
-  {
     "revision": "4618f0de2a818e7ad3fe880e0b74d04a",
     "url": "/react_app/static/media/weathericons-regular-webfont.4618f0de.ttf"
+  },
+  {
+    "revision": "4b658767da6bd92ce2addb3ce512784d",
+    "url": "/react_app/static/media/weathericons-regular-webfont.4b658767.eot"
   },
   {
     "revision": "ed0943f224d6a39871066f569a18fa60",
     "url": "/react_app/static/media/weathericons-regular-webfont.ed0943f2.svg"
   },
   {
-    "revision": "d1d3b536864e9c5116cd5c066f60c740",
+    "revision": "581be6ac27c1305a86b3405f51d07485",
     "url": "/react_app/index.html"
   }
 ];
