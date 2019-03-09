@@ -1,14 +1,14 @@
 {
-  "main.css": "/react_app/static/css/main.3dfe9fa1.chunk.css",
-  "main.js": "/react_app/static/js/main.dc96ba6f.chunk.js",
-  "main.js.map": "/react_app/static/js/main.dc96ba6f.chunk.js.map",
+  "main.css": "/react_app/static/css/main.b8109a30.chunk.css",
+  "main.js": "/react_app/static/js/main.52ddb3da.chunk.js",
+  "main.js.map": "/react_app/static/js/main.52ddb3da.chunk.js.map",
   "runtime~main.js": "/react_app/static/js/runtime~main.749f4b56.js",
   "runtime~main.js.map": "/react_app/static/js/runtime~main.749f4b56.js.map",
-  "static/js/2.948d4d77.chunk.js": "/react_app/static/js/2.948d4d77.chunk.js",
-  "static/js/2.948d4d77.chunk.js.map": "/react_app/static/js/2.948d4d77.chunk.js.map",
+  "static/js/2.bdee699b.chunk.js": "/react_app/static/js/2.bdee699b.chunk.js",
+  "static/js/2.bdee699b.chunk.js.map": "/react_app/static/js/2.bdee699b.chunk.js.map",
   "index.html": "/react_app/index.html",
-  "precache-manifest.48b17a8297024bc782617e69ef9674f2.js": "/react_app/precache-manifest.48b17a8297024bc782617e69ef9674f2.js",
+  "precache-manifest.6645b71d79ffd8e3a60436185ca731a3.js": "/react_app/precache-manifest.6645b71d79ffd8e3a60436185ca731a3.js",
   "service-worker.js": "/react_app/service-worker.js",
-  "static/css/main.3dfe9fa1.chunk.css.map": "/react_app/static/css/main.3dfe9fa1.chunk.css.map",
-  "static/media/logo.svg": "/react_app/static/media/logo.5d5d9eef.svg"
+  "static/css/main.b8109a30.chunk.css.map": "/react_app/static/css/main.b8109a30.chunk.css.map",
+  "static/media/weather-icons.min.css": "/react_app/static/media/weathericons-regular-webfont.ed0943f2.svg"
 }
